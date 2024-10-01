@@ -20,12 +20,3 @@
 - **Redux**: For state management.
 - **EmailJS**: For email functionality.
 
-## Getting Started
-
-To get a local copy up and running, follow these steps:
-
-1. **Clone the Repository**:
-   
-bash
-   git clone https://github.com/madhur333/theanimezone_React.git
-   cd theanimezone_React 
